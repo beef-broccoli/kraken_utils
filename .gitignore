@@ -1,0 +1,12 @@
+.DS_Store
+*.xml
+*.iml
+.idea/**
+/CN/process.py
+/prep/
+dev.txt
+**/raw/
+**/scratch.py/
+/todo/
+**/scratch/
+**/.ipynb_checkpoints/
